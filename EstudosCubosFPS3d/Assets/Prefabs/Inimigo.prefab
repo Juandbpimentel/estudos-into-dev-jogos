@@ -13,9 +13,8 @@ GameObject:
   - component: {fileID: 7080703157232862976}
   - component: {fileID: 3772157004969238885}
   - component: {fileID: 9165301363898204389}
-  - component: {fileID: 4708404939364963269}
   - component: {fileID: -4651053815072039085}
-  - component: {fileID: -7158168269821310202}
+  - component: {fileID: 3639241424927770970}
   m_Layer: 0
   m_Name: Inimigo
   m_TagString: Inimigo
@@ -139,27 +138,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!135 &4708404939364963269
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4271112108064702608}
-  m_Material: {fileID: 13400000, guid: 5cc81ef1bd76f1b4586fdb00651d122d, type: 2}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 1
-  m_Enabled: 0
-  serializedVersion: 3
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &-4651053815072039085
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -172,26 +150,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3698b1fb1c244648ac1bb5adb7b5a3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jogador: {fileID: 0}
-  velocidadeInimigo: 0.025
---- !u!65 &-7158168269821310202
-BoxCollider:
+  velocidadeInimigo: 0.008
+--- !u!114 &3639241424927770970
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4271112108064702608}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c406b35e2e6a77d4c9931c4e37393ca5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  quantidadeMaximaVidas: 2

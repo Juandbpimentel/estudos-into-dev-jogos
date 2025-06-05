@@ -56,7 +56,7 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ProjetoAprendizado.sln",
+    "dotnet.defaultSolution": "EstudosCubosFPS3d.sln",
     "cSpell.words": [
         "Chao",
         "Rigidbody"

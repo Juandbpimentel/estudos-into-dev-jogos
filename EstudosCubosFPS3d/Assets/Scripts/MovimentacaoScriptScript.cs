@@ -9,7 +9,7 @@ public class MovimentacaoScript : MonoBehaviour
     public GameObject bullet;
     public float velocity = 0.05f;
     public float sprintVelocity = 0.1f;
-    public float forcaProjetil = 1000;
+    public float forcaProjetil = 1000f;
     public float jumpVelocity = 0.25f;
     public float jumpForce = 10f;
     bool isDoubleJumped = false;
@@ -123,7 +123,7 @@ public class MovimentacaoScript : MonoBehaviour
 
     void verifyFire()
     {
-        if (Input.GetKeyDown(KeyCode.F))
+        if (Input.GetKey(KeyCode.F))
         {
             // create a bullet da forma rápida:
             // GameObject bullet = GameObject.FindGameObjectWithTag("Bala");
@@ -150,7 +150,6 @@ public class MovimentacaoScript : MonoBehaviour
             // destroy the bullet after 1 second
             Destroy(balaCopia, 1);
             // print to console
-            Debug.Log("Fire!");
         }
     }
     void OnCollisionEnter(Collision other)
@@ -160,11 +159,9 @@ public class MovimentacaoScript : MonoBehaviour
             isGrounded = true;
             isDoubleJumped = false;
         }
-
         if (other.gameObject.CompareTag("Inimigo"))
         {
-            Destroy(this.gameObject);
-            Debug.Log("Você morreu!");
+            this.gameObject.GetComponent<StatusJogadorScript>().removeVida();
         }
     }
 

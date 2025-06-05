@@ -8,8 +8,6 @@ public class InimigoScript : MonoBehaviour
     void Start()
     {
         jogador = GameObject.FindWithTag("Player");
-        Debug.Log("Inimigo: " + this.gameObject.name);
-        Debug.Log("Jogador: " + jogador.name);
     }
 
     // Update is called once per frame
@@ -23,11 +21,13 @@ public class InimigoScript : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Bala"))
         {
-            Destroy(other.gameObject);
-            Destroy(this.gameObject);
-
-            Debug.Log("Inimigo colidiu com a Bala");
+            this.gameObject.GetComponent<StatusInimigoScript>().removeVida();
             // Aqui você pode adicionar a lógica para o que acontece quando o inimigo colide com o jogador
+        }
+        if (other.gameObject.CompareTag("Player"))
+        {
+            Debug.Log("Dei uma cubada no jogador!");
+            Destroy(this.gameObject);
         }
     }
 }
