@@ -1,0 +1,1970 @@
+fileFormatVersion: 2
+guid: 4613f814794702446a36aff1cc1ded09
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_aula_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb1c97300ebfae4f8b326f02c51d3ca
+      internalID: 874180059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcb46ddeaa93264cb8e4b36398c35f5
+      internalID: -509471214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9f22985758e4c4bb98516faea8faaf
+      internalID: 499064565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f60fda7779f648b4492e1e1a5787e
+      internalID: -1830271102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be262ada812ac948aa936efef4b6a39
+      internalID: -746873886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a665783a98f094e42957fcb35b3a91de
+      internalID: -392213524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a46a21f9f511647a14d54bdb668a7b
+      internalID: -243781766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_7
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1152
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9205532fc7ef244b01f0fbdd26b859
+      internalID: 294696692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547736c5633440947bd76d8766d8ce62
+      internalID: -1839544150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5edeaa21276564ab7f09e069da2abe
+      internalID: -1290888990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ea1f937732a094999ff9afb60f12f1
+      internalID: -1663314978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bc7faa18b6ff44a9d71afc788cd4e2
+      internalID: -1372471304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d7cf1ccc9c8b649a900fedab43b82d
+      internalID: -751643469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_13
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4289cd60c6104d241bd4962e540244c2
+      internalID: -386863344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_14
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f0f5cb43da4ee428022f31255af308
+      internalID: 680568293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_15
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1024
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177d56ae07711d847801a3fb101860c5
+      internalID: 1494540311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b125308c7298f94983a7f0f48c0b05a
+      internalID: 777418389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07818f0bf786734aa2013f7bd5992a7
+      internalID: -1383279482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793d9cd1cecd70c4e8d9e0046a37532b
+      internalID: 1786544951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d6010816654d142ab82507d3f0ec3d
+      internalID: 60344942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b898a05aee136e04095fa4acab489d35
+      internalID: 465100515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_21
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5b38c15afeb0f499da964a496da0b4
+      internalID: -857870319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_22
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c125657a3d6d40a4af7be191fa389
+      internalID: -1066551457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_23
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 896
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f071a9b898ac6354683a2f38d4be77db
+      internalID: -1381653831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ca0295c1342a14e817b78fb8465d1a
+      internalID: -2038431892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a9d0b51b571e649a537feb03e162a5
+      internalID: 1327790538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bc7c679581b39469881a1b65080ca3
+      internalID: -1220405836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_27
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef78ac92aded5ca428c1ff7e02427209
+      internalID: 1565439766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d381399b351cb4c8e23d88384a4a9c
+      internalID: 1258121056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_29
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1983b08deae5cd0459e4e6b782881d0b
+      internalID: 1492912882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_30
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf56cc48f5505c44b171568777ec060
+      internalID: -939577577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_31
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 768
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec5b022a81a6964280934150a71b28f
+      internalID: 1183272702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a49e016ad244b45b2e7ebfbe301bd7
+      internalID: -1814399811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8fd4da8c71b014480a48176c0b35e1
+      internalID: -1006090408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8dd6d880993d4c87cf57e280d4ce4
+      internalID: 234432799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b69df7addd96cd4e88272112f319c5e
+      internalID: 2080985309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_36
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e57de1941fac4789f395a09f1e733
+      internalID: -113759776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652148c072a0d6145b70c7df04100143
+      internalID: 1625241232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_38
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba58d26898956f4fa2f4389bd389778
+      internalID: -1358000157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_39
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 640
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31294e4522a4ed04fa0a6b0af2baafc7
+      internalID: 1494725705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e219278ea4f2cb148ac43a8b6be07760
+      internalID: 297542466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f711c25cec04b47a1379975b11eb62
+      internalID: -2128653630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_42
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543b4d2c9ee6fa543adfda4c7f09500f
+      internalID: 1196866328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f61c2b32406db14aab033821f2ae2c7
+      internalID: 552401256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb836d0047402cd4ebcd56fb96f637b5
+      internalID: 777494893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_45
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660b8367a07c7d544a4a19de6b748c3c
+      internalID: 5018118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_46
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85052392a72890345933132a1e24dee2
+      internalID: -1277408990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_47
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 512
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb446fcdffe627489e58fda85af71de
+      internalID: -1894160856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66430d7ca8ca9504fa232fd65c833367
+      internalID: 2133281786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7bd0906c187cc4ea280e96c24f91fb
+      internalID: -498738221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_50
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84985b04bddb6884fbd142813a100b8a
+      internalID: -81131413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05d64b7fa0b5e4f8bbd1b574fac78f
+      internalID: 903574161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_52
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ce54c9b0bd084d9690a8029fe47d8
+      internalID: -33913281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_53
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72619cd0836df0d4aa8388f007129737
+      internalID: 1163810585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_54
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df39c9756c6db384ab089b656099a35c
+      internalID: 1541232531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_55
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 384
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db208c3980190f049b21c844d927ae4a
+      internalID: 1576708361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4e0dec029e77c48bec3db0879ab4c6
+      internalID: -828160774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_57
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443b53d123780774e99255122814556a
+      internalID: 1089695570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405d2ab361e207c4d868263c4223601c
+      internalID: 1114282607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_59
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f63830150f91145902d77a948aeaae
+      internalID: 103374842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_60
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6891a5fe69b47994e8c5d7fcd040e2f7
+      internalID: -421831565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_61
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68b70e0b44c1a543a23fd28ecec1c64
+      internalID: 307090117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_62
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7691ffc4b096aeb4dbde29ee30f18ba3
+      internalID: 1502356586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_63
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 256
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dad31d7a78042488ce375168a4128f
+      internalID: -189184102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0332e5728ae68614097954be3dc89584
+      internalID: -888179813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_65
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd103fd452672a4eac81c03c723f439
+      internalID: -1496518735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_66
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55dd5726740238478c113b608992089
+      internalID: -1059919471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_67
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18ea3f98d6579549af6d43c23e53e0f
+      internalID: 58502161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_68
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753eaf653cee733489fcc1f169724a37
+      internalID: -2128984378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_69
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b120e9a5c614b4bbacda9dea7c85da
+      internalID: 1127837545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_70
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f2714eaa1468e41b8e2339c8d22663
+      internalID: 472868112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_71
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 128
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f33b77a75a903745b96e19382038d9c
+      internalID: -1755495485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339ce9328d10adf4ca7fdd0e1033f772
+      internalID: 348271458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_73
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1638f98e4ca72d14c9a917bfc9cdd03c
+      internalID: 1945210857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_74
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70235ec5592205142ab82149c3ee3cf9
+      internalID: 2034955640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_75
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06647758584acc4d9c646f61f500218
+      internalID: 2072175652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_76
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a6b42d755972c4aaf4201702fa2791
+      internalID: -802404199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_77
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae362441685a92748aea3a1a1dca3c5f
+      internalID: 212585565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_78
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3113265c1cc254d93c750d47335048
+      internalID: 613469049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_aula_79
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf5539de25ff049b37d48026fc92d8
+      internalID: -1930596576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 58f5348bf22b4834591ae7283c7a745b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_aula_0: 874180059
+      sprite_aula_1: -509471214
+      sprite_aula_10: -1663314978
+      sprite_aula_11: -1372471304
+      sprite_aula_12: -751643469
+      sprite_aula_13: -386863344
+      sprite_aula_14: 680568293
+      sprite_aula_15: 1494540311
+      sprite_aula_16: 777418389
+      sprite_aula_17: -1383279482
+      sprite_aula_18: 1786544951
+      sprite_aula_19: 60344942
+      sprite_aula_2: 499064565
+      sprite_aula_20: 465100515
+      sprite_aula_21: -857870319
+      sprite_aula_22: -1066551457
+      sprite_aula_23: -1381653831
+      sprite_aula_24: -2038431892
+      sprite_aula_25: 1327790538
+      sprite_aula_26: -1220405836
+      sprite_aula_27: 1565439766
+      sprite_aula_28: 1258121056
+      sprite_aula_29: 1492912882
+      sprite_aula_3: -1830271102
+      sprite_aula_30: -939577577
+      sprite_aula_31: 1183272702
+      sprite_aula_32: -1814399811
+      sprite_aula_33: -1006090408
+      sprite_aula_34: 234432799
+      sprite_aula_35: 2080985309
+      sprite_aula_36: -113759776
+      sprite_aula_37: 1625241232
+      sprite_aula_38: -1358000157
+      sprite_aula_39: 1494725705
+      sprite_aula_4: -746873886
+      sprite_aula_40: 297542466
+      sprite_aula_41: -2128653630
+      sprite_aula_42: 1196866328
+      sprite_aula_43: 552401256
+      sprite_aula_44: 777494893
+      sprite_aula_45: 5018118
+      sprite_aula_46: -1277408990
+      sprite_aula_47: -1894160856
+      sprite_aula_48: 2133281786
+      sprite_aula_49: -498738221
+      sprite_aula_5: -392213524
+      sprite_aula_50: -81131413
+      sprite_aula_51: 903574161
+      sprite_aula_52: -33913281
+      sprite_aula_53: 1163810585
+      sprite_aula_54: 1541232531
+      sprite_aula_55: 1576708361
+      sprite_aula_56: -828160774
+      sprite_aula_57: 1089695570
+      sprite_aula_58: 1114282607
+      sprite_aula_59: 103374842
+      sprite_aula_6: -243781766
+      sprite_aula_60: -421831565
+      sprite_aula_61: 307090117
+      sprite_aula_62: 1502356586
+      sprite_aula_63: -189184102
+      sprite_aula_64: -888179813
+      sprite_aula_65: -1496518735
+      sprite_aula_66: -1059919471
+      sprite_aula_67: 58502161
+      sprite_aula_68: -2128984378
+      sprite_aula_69: 1127837545
+      sprite_aula_7: 294696692
+      sprite_aula_70: 472868112
+      sprite_aula_71: -1755495485
+      sprite_aula_72: 348271458
+      sprite_aula_73: 1945210857
+      sprite_aula_74: 2034955640
+      sprite_aula_75: 2072175652
+      sprite_aula_76: -802404199
+      sprite_aula_77: 212585565
+      sprite_aula_78: 613469049
+      sprite_aula_79: -1930596576
+      sprite_aula_8: -1839544150
+      sprite_aula_9: -1290888990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
